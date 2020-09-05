@@ -1,2 +1,2 @@
 # Laptop Repairing Shop : Billing Software
-This is final project of first year for C++
+This is my final project for 1st year (SEM-II)
